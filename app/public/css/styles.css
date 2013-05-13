@@ -6,6 +6,7 @@ html, body {
 body {
   background-color: #FAF2E5;
   overflow-x: hidden;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 hr {
@@ -234,8 +235,8 @@ p.story-details {
 }
 
 .story-body p {
-  font-size: 16px;
-  line-height: 1.4;
+  font-size: 17px;
+  line-height: 1.5;
   margin-bottom: 16px;
   font-weight: 300;
 }
